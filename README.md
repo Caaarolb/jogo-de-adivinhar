@@ -30,12 +30,8 @@ Este é um jogo simples onde o usuário deve adivinhar um número aleatório ger
 
 
 ## 🚀 Como Executar?
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Caaarolb/mudar-cor-background.git
-   ```
-2. Abra o arquivo `index.html` no navegador.
-3. Divirta-se jogando! 🎲
+1. Entre em: caaarolb.github.io/jogo-de-adivinhar/
+2. Divirta-se jogando! 🎲
 
 ## 📌 Melhorias Futuras
 ✅ Melhorar responsividade 📱
